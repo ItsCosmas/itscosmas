@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Cozy 👋
+##### Software Development Engineer
 
 <!--
 **ItsCosmas/ItsCosmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🌐 Website: [itscosmas.me](https://itscosmas.me)
+- 👨🏾‍💼Linkedin: [Cosmas](https://www.linkedin.com/in/cosmasgikunju/)
+- 📫 Mail: devcosmas@gmail.com
+- 🐦 Twitter: [@itscosmas](https://twitter.com/itscosmas)
+- 📖 Dev: [@itscosmas](https://dev.to/itscosmas)
+- 📖 Medium: [@itscosmas](https://medium.com/@itscosmas)
