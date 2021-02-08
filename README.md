@@ -5,8 +5,6 @@ I'm Cosmas, a Software Engineer currently working in Nairobi.
 <!--
 **ItsCosmas/ItsCosmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
-
 ### ☕ Let's chat?
 - 📫 Mail: devcosmas@gmail.com
 - 🐦 Twitter: [@itscosmas](https://twitter.com/itscosmas)
